@@ -11,7 +11,7 @@
 **2019-03-19** : v1.0.0 支持各大视频网站VIP视频解析
 
 ### 插件功能
-- 解析各大视频网站VIP视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，acfun，bilibili，PPTV，暴风，音悦台
+- 解析各大视频网站VIP视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，bilibili，PPTV，暴风，音悦台
 
 ### 使用必读
 
@@ -21,24 +21,26 @@
 
 ### 解析测试
 
-|  视频网站 |  示例链接 |
-| ------------ | ------------ |
-|  优酷 |  https://v.youku.com/v_show/id_XNDA3MzgwMzQ3Ng== |
-|  爱奇艺 |  https://www.iqiyi.com/v_19rro4u4ms.html |
-|  芒果 |  http://www.mgtv.com/b/303799/4124549.html |
-|  乐视 |  http://www.le.com/ptv/vplay/31339383.html |
-|  搜狐 |  http://tv.sohu.com/20171020/n600217514.shtml |
-|  腾讯 |  https://v.qq.com/x/cover/6n89qmcgox3zflm.html |
-|  pptv |  http://v.pptv.com/show/KRsZlv5k1BJ181s.html |
-|  m1905 |http://vip.1905.com/play/683679.shtml|
-|  cntv |  http://tv.cctv.com/2015/10/21/VIDE1445394995220757.shtml |
-|  音乐台 |  http://v.yinyuetai.com/video/2891358 |
-|  b站 |  https://www.bilibili.com/video/av14162235/ |
-|  头条 |  http://www.365yg.com/i6616626266441269773/#mid=1610913533706254 |
-|  YY |  http://www.yy.com/shenqu/play/id_1146995988095098070.html |
-|  虎牙 |  http://ahuya.duowan.com/play/24992577.html |
-|  美拍 |  https://www.meipai.com/media/845287109 |
-|  秒拍 |  https://www.miaopai.com/show/8FGkgKTrnfZp~tUbleyq7TKPY0GI45OSqXK42Q__.htm |
+优酷：https://v.youku.com/v_show/id_XNDA3MzgwMzQ3Ng==.html
+
+爱奇艺：https://www.iqiyi.com/v_19rro4u4ms.html
+
+芒果：http://www.mgtv.com/b/303799/4124549.html
+
+乐视：http://www.le.com/ptv/vplay/31339383.html
+
+搜狐：http://tv.sohu.com/20171020/n600217514.shtml
+
+腾讯：https://v.qq.com/x/cover/6n89qmcgox3zflm.html
+
+pptv：http://v.pptv.com/show/KRsZlv5k1BJ181s.html
+
+m1905：http://vip.1905.com/play/683679.shtml
+
+音悦台：http://v.yinyuetai.com/video/2891358
+
+bilibili：https://www.bilibili.com/video/av14162235
+
 
 ### 捐赠
 如果您觉得脚本对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！

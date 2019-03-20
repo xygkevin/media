@@ -3,7 +3,7 @@
 // @namespace         https://github.com/syhyz1990/media
 // @version           1.0.2
 // @icon              https://gw.alicdn.com/tfs/TB1ZvwSycbpK1RjSZFyXXX_qFXa-48-48.ico
-// @description       解析各大视频网站VIP视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，acfun，bilibili，PPTV，暴风，音悦台
+// @description       解析各大视频网站VIP视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，bilibili，PPTV，暴风，音悦台
 // @author            syhyz1990
 // @license           MIT
 // @supportURL        https://github.com/syhyz1990/media
@@ -24,7 +24,6 @@
 // @match             *://*.mgtv.com/b/*
 // @match             *://film.sohu.com/album/*
 // @match             *://tv.sohu.com/*
-// @match             *://*.acfun.cn/v/*
 // @match             *://*.bilibili.com/video/*
 // @match             *://*.bilibili.com/anime/*
 // @match             *://*.bilibili.com/bangumi/play/*
@@ -33,6 +32,7 @@
 // @match             *://*.baofeng.com/play/*
 // @match             *://v.yinyuetai.com/video/*
 // @match             *://v.yinyuetai.com/playlist/*
+// @match             *://vip.1905.com/play/*
 // @require           https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js
 // @run-at            document-idle
 // @grant             unsafeWindow
@@ -79,6 +79,4 @@
   $(function () {
     init();
   });
-
-
 })();
