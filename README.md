@@ -23,6 +23,9 @@
 
 ![插件界面](https://ww1.sinaimg.cn/large/4db689e3ly1g17yt0tksqj21280pdkg0.jpg)
 
+### Android和IOS客户端扫码下载
+![](https://ww1.sinaimg.cn/large/4db689e3ly1g1h8d7jg65j205k05kgln.jpg)
+
 ### 解析测试
 
 优酷：https://v.youku.com/v_show/id_XNDA3MzgwMzQ3Ng==
@@ -54,7 +57,7 @@ bilibili：https://www.bilibili.com/video/av14162235
 本脚本仅在浏览器端运行，源码公开可见，仅做研究使用，不得用于非法获利， 如产生法律纠纷与脚本作者无关!!!
 
 ### 常见问题
-**Q: 安装脚本后没显示![](https://ww1.sinaimg.cn/large/4db689e3ly1g1f2hhtq5uj201r01d0f9.jpg)播放图标**
+**Q: 安装脚本后没显示 ![](https://ww1.sinaimg.cn/large/4db689e3ly1g1f2hhtq5uj201r01d0f9.jpg) 播放图标**
 
 A: 请检查浏览器是否已安装tampermonkey或暴力猴 , 并启用脚本
 
