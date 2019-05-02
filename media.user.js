@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              VIP视频解析助手
 // @namespace         https://github.com/syhyz1990/media
-// @version           1.0.3
+// @version           1.0.5
 // @icon              https://gw.alicdn.com/tfs/TB1ZvwSycbpK1RjSZFyXXX_qFXa-48-48.ico
 // @description       解析各大视频网站VIP视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，bilibili，PPTV，暴风，音悦台
 // @author            syhyz1990
@@ -46,10 +46,10 @@
 
   let api = [
     {name: '金桥解析', url: 'http://jqaaa.com/jx.php?url='},
-    {name: '思古解析', url: 'http://api.bbbbbb.me/jx/?url='},
-    {name: '思念解析', url: 'http://api.7kki.cn/api/?url='},
+    {name: '腾讯稳定', url: 'http://jx.618ge.com/?url='},
+    {name: '无敌解析', url: 'https://z1.m1907.cn/?jx='},
     {name: '无名解析', url: 'https://beaacc.com/api.php?url='},
-    {name: '拉车解析', url: 'https://jx.lache.me/cc/?url='}];
+    {name: '通用接口', url: 'http://jx.aeidu.cn/index.php?url='}];
 
 
   let main = {
