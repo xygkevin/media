@@ -53,7 +53,7 @@ bilibili：https://www.bilibili.com/video/av14162235
 ### 捐赠
 如果您觉得脚本对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！
  
-![支持我](http://ww1.sinaimg.cn/large/4db689e3ly1g0ae1ogfjbj205k05yjrl.jpg) ![支持我](http://ww1.sinaimg.cn/large/4db689e3ly1g0ae1oc3o4j205k05yweg.jpg)
+![微信](https://i.loli.net/2019/05/04/5ccc6d088bc31.jpg) ![支付宝](https://i.loli.net/2019/05/04/5ccc6d08a22f7.jpg)
 
 ### 免责声明 
 本脚本仅在浏览器端运行，源码公开可见，仅做研究使用，不得用于非法获利， 如产生法律纠纷与脚本作者无关!!!
