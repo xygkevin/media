@@ -23,10 +23,10 @@
 
 安装插件后在**视频播放页面**的左侧会显示下图按钮，点击后选择解析线路点击后即可播放
 
-![插件界面](http://ww1.sinaimg.cn/large/4db689e3ly1g17yt0tksqj21280pdkg0.jpg)
+![插件界面](https://i.loli.net/2019/05/04/5ccc6e8139a12.jpg)
 
 ### Android和IOS客户端扫码下载
-![](http://ww1.sinaimg.cn/large/4db689e3ly1g1h8d7jg65j205k05kgln.jpg)
+![](https://i.loli.net/2019/05/04/5ccc6e7fddce9.jpg)
 
 ### 解析测试
 
