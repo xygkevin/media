@@ -1,30 +1,15 @@
-# VIP视频解析助手
-![TamperMonkey v4.5](https://img.shields.io/badge/TamperMonkey-v4.8-brightgreen.svg) ![Chrome x64 v60.4](https://img.shields.io/badge/Chrome%20x64-v73.0-brightgreen.svg) ![Safari v11.0.3](https://img.shields.io/badge/Safari%20-v12.0-brightgreen.svg)
-
+# 视频解析助手
+![TamperMonkey v4.9](https://img.shields.io/badge/TamperMonkey-v4.8-brightgreen.svg) ![Chrome x64 v60.4](https://img.shields.io/badge/Chrome%20x64-v73.0-brightgreen.svg) ![Safari v11.0.3](https://img.shields.io/badge/Safari%20-v12.0-brightgreen.svg)
 
 ### 安装地址
-[安装地址1](https://greasyfork.org/zh-CN/scripts/380568)
-
-[安装地址2](https://openuserjs.org/scripts/syhyz1990/VIP视频解析助手)
-
-### 更新日志
-**2019-05-30** : v1.0.6 更新接口和解析描述
-
-**2019-03-20** : v1.0.2 更新接口
-
-**2019-03-19** : v1.0.0 支持各大视频网站VIP视频解析
+[安装地址](	https://github.com/syhyz1990/media/raw/master/media.user.js)
 
 ### 插件功能
-- 解析各大视频网站VIP视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，bilibili，PPTV，暴风，音悦台
+- 解析各大视频网站视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，bilibili，PPTV，暴风，音悦台，适合某些网络下无法打开视频网站的情况。
 
 ### 使用必读
 
-安装插件后在**视频播放页面**的左侧会显示下图按钮，点击后选择解析线路点击后即可播放
-
-![插件界面](https://i.loli.net/2019/05/04/5ccc6e8139a12.jpg)
-
-### Android和IOS客户端扫码下载
-![](https://i.loli.net/2019/05/04/5ccc6e7fddce9.jpg)
+安装插件后在**视频播放页面**的左侧会显示解析按钮，点击后选择解析线路点击后即可播放
 
 ### 解析测试
 
@@ -48,23 +33,5 @@ m1905：http://vip.1905.com/play/683679.shtml
 
 bilibili：https://www.bilibili.com/video/av14162235
 
-### 捐赠
-如果您觉得脚本对您有帮助，您可以通过支付宝或微信，扫描二维码，捐赠 X元，^_^，谢谢！
- 
-![微信](https://i.loli.net/2019/05/04/5ccc6d088bc31.jpg) ![支付宝](https://i.loli.net/2019/05/04/5ccc6d08a22f7.jpg)
-
 ### 免责声明 
 本脚本仅在浏览器端运行，源码公开可见，仅做研究使用，不得用于非法获利， 如产生法律纠纷与脚本作者无关!!!
-
-### 常见问题
-**Q: 安装脚本后没显示 ![](http://ww1.sinaimg.cn/large/4db689e3ly1g1f2hhtq5uj201r01d0f9.jpg) 播放图标**
-
-A: 请检查浏览器是否已安装tampermonkey或暴力猴 , 并启用脚本
-
-**Q: 点击链接后无响应 , 或视频集数时间不对**
-
-A: 尝试换用其他解析链接解析 , 集数不对时请点击对应视频网址的集数后再重新解析
-
-
-### 脚本推荐
-[百度网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/39504)

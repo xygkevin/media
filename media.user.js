@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name              VIP视频解析助手
+// @name              视频解析助手
 // @namespace         https://github.com/syhyz1990/media
-// @version           1.0.6
+// @version           1.0.7
 // @icon              https://gw.alicdn.com/tfs/TB1ZvwSycbpK1RjSZFyXXX_qFXa-48-48.ico
-// @description       解析各大视频网站VIP视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，bilibili，PPTV，暴风，音悦台
+// @description       解析各大视频网站视频，支持优酷，爱奇艺，乐视，腾讯视频，土豆，芒果TV，bilibili，PPTV，暴风，音悦台
 // @author            syhyz1990
 // @license           MIT
 // @supportURL        https://github.com/syhyz1990/media
