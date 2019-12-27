@@ -45,12 +45,11 @@
   GM_addStyle('.h-icon-play {color: #d926b5;fill: #d926b5;height: 80px;width: 80px;position: fixed;z-index: 99999;top: 180px;left: 0;cursor: pointer;}  .h-ol {position: fixed;top: 250px;left: 20px;z-index: 99999;counter-reset: li;list-style: none;font-size: 14px;padding: 0;margin-bottom: 4em;text-shadow: 0 1px 0 rgba(255, 255, 255, .5);display: none;}  .h-ol a {position: relative;display: block;padding: 3px 10px 3px 2em;margin: 0.5em 0;background: #ddd;color: #444;text-decoration: none;border-radius: 0.3em;transition: all 0.3s ease-out;}  .h-ol a:hover {background: #eee;color: #ff6f5c;transition: all 0.3s ease-out;}  .h-ol a::before {content: counter(li);counter-increment: li;position: absolute;left: -1.2em;top: 50%;margin-top: -1.2em;background: #87ceeb;height: 2em;width: 2em;line-height: 2em;border: 0.2em solid #fff;text-align: center;font-weight: bold;border-radius: 2em;}');
 
   let api = [
-    {name: '纯净线路1', url: 'https://jx.128sp.com/jxjx/?url='},
-    {name: '纯净线路2', url: 'http://api.smq1.com/?url='},
-    {name: '纯净线路3', url: 'https://jx.hezeshi.net/ce/jlexi.php?url='},
-    {name: '无敌解析', url: 'https://z1.m1907.cn/?jx='},
-    {name: '无名解析', url: 'https://beaacc.com/api.php?url='},
-    {name: '通用接口', url: 'http://www.3aym.cn/?url='}];
+    {name: '线路1', url: 'http://jx.kukan.vip/?url='},
+    {name: '线路2', url: 'https://www.urlkj.com/?url='},
+    {name: '线路3', url: 'http://ys.480tw.cn/ay/?url='},
+    {name: '线路4', url: 'https://jx.70808.net/?url='},
+    {name: '线路5', url: 'http://demo.baores.com/?url'}];
 
 
   let main = {
